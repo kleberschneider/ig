@@ -18,7 +18,7 @@ window.onload = function() {
 
 
   var messages = [
-    'Muito bem! :)',
+    'Olá, stalker! :)',
     'Cê me encontrou, Kleber Schneider aqui! 🙋🏻',
     'Eu projeto e codifico coisas na web.',
     'Por exemplo, posso construir:',
