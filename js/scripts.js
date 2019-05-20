@@ -23,21 +23,18 @@ window.onload = function() {
     'Eu projeto e codifico coisas na web.',
     'Por exemplo, posso construir:',
     'lojas virtuais, portfolios, aplicações web...',
-    'Não tenho muitos amigos, mas aposto que você tem.',
-    'Se me indicar para alguém que conheça,',
-    'te pago um chocolate.',
-    'É só me enviar um e-mail p/ falar sobre isso.',
-    'Quem sabe, essa pessoa possa ser você. 💁‍♀️📈',
-    'Pense na aposentaria que não vamos ter e perceba',
-    'HOJE que nossa geração precisa ser empreendedora.',
-    'Enfim...',
-    'Se não quiser falar sobre seu negócio online,',
-    'me envie uma foto do seu drink com a porção de batata frita depois. 🙀💸',
-    'Vou coracionar todas essas fotos.',
+    'Achei que você precisasse saber disso. 🙈',
+    'E aí...',
+    'Você estaria disposta(o) a INVESTIR somente',
+    'R$ 499,00 e nada mais para ter um site totalmente',
+    'personalizado, responsivo (mobile) e',
+    'otimizado para o Google?',
+    'Se sim, <a href="mailto:via.instagram@pm.me?subject=PLANO%20BÁSICO%20-%20R$%20499&body=Hey,%20Kleber!%20:)%0D%0A%0D%0ASei%20que%20seu%20preço%20é%20o%20mais%20barato,%20que%20você%20entrega%20rápido%20e%20que%20você%20faz%20um%20ótimo%20trabalho.%0D%0A%0D%0AAgora,%20quero%20saber%20mais%20sobre:%0D%0A%0D%0A%0D%0A(preencha%20aqui)">clica aqui</a>.',
+    'Tenho outros pacotes também para você que quer driblar a crise',
+    'e criar seu negócio 100% online.',
     'Obrigado por aparecer por aqui. 😺',
-  /*  '<a target="_blank" href="https://twitter.com/kleberschneider">twitter.com/kleberschneider</a><br><a target="_blank" href="https://codepen.io/kleberschneider">codepen.io/kleberschneider</a><br><a target="_blank" href="https://github.com/kleberschneider">github.com/kleberschneider</a>', */
     getCurrentTime(),
-    '👀 Aguardo seu <a href="mailto:via.instagram@pm.me?subject=ADOREI!%20Vamos%20conversar!!!&body=Hey,%20Kleber!%20:)%0D%0ASei%20que%20seu%20preço%20é%20o%20mais%20barato,%20que%20você%20entrega%20rápido%20e%20que%20você%20faz%20um%20ótimo%20trabalho.%0D%0A%0D%0AAgora,%20quero%20te%20passar:%0D%0A%0D%0AUm%20contato%20para%20job%20para%20me%20dar%20comissão:%20%0D%0AUm%20job%20para%20mim%20com%20desconto:%20%0D%0AUma%20dúvida%20minha:%20%0D%0A%0D%0A%0D%0A">contato</a>. 👋'
+    '👀 Até mais!! 👋'
   ]
 
   var getFontSize = function() {
